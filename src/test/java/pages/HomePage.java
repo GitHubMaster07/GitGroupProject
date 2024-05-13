@@ -8,3 +8,6 @@ public class HomePage {
     @FindBy(id = "someid")
     public WebElement searchButton;
 }
+
+
+
